@@ -1,0 +1,45 @@
+.button
+{
+    width: 150px;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: aliceblue;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
+
+h4
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+
+h2
+{
+    color: rgb(255, 255, 255);
+}
+
+#Title
+{
+    background-color: rgb(114, 123, 119);
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 1950px;
+    height: 60px;
+    background-color: rgb(114, 123, 119);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer_name
+{
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 20px #d0d0d0;
+}
